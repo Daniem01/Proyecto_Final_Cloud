@@ -1,0 +1,177 @@
+AL,Freezing Drizzle,3.00,1
+AL,Showers in the Vicinity,3.00,2
+AL,Light Rain Showers,3.00,1
+AL,Patches of Fog,2.82,17
+AL,Thunderstorms and Rain,2.78,36
+AL,Light Freezing Fog,2.68,28
+AL,Snow,2.67,6
+AL,Mist,2.61,54
+AL,Heavy Thunderstorms and Rain,2.61,59
+AL,Heavy Snow,2.60,5
+AL,Thunderstorm,2.54,132
+AL,Light Thunderstorms and Rain,2.48,107
+AL,Scattered Clouds,2.43,1825
+AL,Heavy Rain / Windy,2.41,37
+AL,Rain / Windy,2.41,17
+AL,Smoke,2.40,5
+AL,Wintry Mix,2.40,25
+AL,Clear,2.38,6789
+AL,Overcast,2.38,4835
+AL,Heavy Rain,2.37,907
+AL,T-Storm / Windy,2.36,14
+AL,Light Rain with Thunder,2.32,379
+AL,Rain,2.32,1536
+AL,Light Drizzle,2.28,509
+AL,Thunder in the Vicinity,2.27,518
+AL,Heavy T-Storm,2.27,452
+AL,Mostly Cloudy,2.27,13418
+AL,Light Rain,2.27,6088
+AL,Partly Cloudy,2.27,8523
+AL,Thunder,2.27,388
+AL,Mostly Cloudy / Windy,2.26,43
+AL,Light Rain / Windy,2.25,44
+AL,Fog / Windy,2.25,4
+AL,Light Freezing Drizzle,2.25,8
+AL,T-Storm,2.25,628
+AL,Light Snow,2.25,103
+AL,Haze,2.24,293
+AL,N/A Precipitation,2.20,10
+AL,Cloudy,2.19,13339
+AL,Fog,2.19,1278
+AL,Fair,2.18,36994
+AL,Fair / Windy,2.17,66
+AL,Drizzle,2.17,35
+AL,Heavy T-Storm / Windy,2.16,37
+AL,Partly Cloudy / Windy,2.15,20
+AL,Cloudy / Windy,2.14,83
+AL,Snow and Sleet,2.00,3
+AL,Light Freezing Rain,2.00,4
+AL,Freezing Rain,2.00,2
+AL,Thunder / Windy,2.00,11
+AL,Heavy Drizzle,2.00,3
+AL,Shallow Fog,2.00,3
+AL,Drizzle and Fog,2.00,3
+AL,Widespread Dust,2.00,2
+AL,Blowing Snow,2.00,1
+AR,Thunderstorm,4.00,2
+AR,Thunderstorms and Rain,3.25,4
+AR,Scattered Clouds,3.02,57
+AR,Sleet / Windy,3.00,1
+AR,Freezing Drizzle,3.00,1
+AR,Clear,2.97,311
+AR,Overcast,2.90,216
+AR,Light Freezing Rain,2.50,14
+AR,Light Freezing Drizzle,2.44,18
+AR,Heavy Snow,2.43,42
+AR,Wintry Mix / Windy,2.40,5
+AR,Thunder in the Vicinity,2.38,81
+AR,Snow,2.37,57
+AR,N/A Precipitation,2.33,30
+AR,Blowing Snow / Windy,2.29,7
+AR,Fog,2.29,380
+AR,Fair,2.28,9816
+AR,Partly Cloudy,2.27,1390
+AR,Mostly Cloudy / Windy,2.26,19
+AR,Haze,2.26,87
+AR,Mostly Cloudy,2.25,2200
+AR,Heavy Rain,2.25,163
+AR,Light Rain,2.25,1303
+AR,Patches of Fog,2.25,8
+AR,Fair / Windy,2.24,63
+AR,Cloudy,2.23,4373
+AR,T-Storm,2.23,213
+AR,Light Snow,2.23,267
+AR,Light Drizzle,2.21,106
+AR,Light Snow / Windy,2.21,19
+AR,Rain,2.20,336
+AR,Heavy Rain / Windy,2.20,5
+AR,Sleet,2.20,10
+AR,Light Sleet,2.19,21
+AR,Light Rain with Thunder,2.17,157
+AR,Light Rain / Windy,2.16,31
+AR,Wintry Mix,2.16,183
+AR,Cloudy / Windy,2.15,66
+AR,Partly Cloudy / Windy,2.15,13
+AR,Thunder,2.14,58
+AR,Mist,2.13,15
+AR,Heavy T-Storm,2.12,116
+AR,Thunder / Windy,2.00,1
+AR,Haze / Windy,2.00,3
+AR,Light Snow and Sleet,2.00,3
+AR,Drizzle,2.00,1
+AR,Showers in the Vicinity,2.00,1
+AR,Hail,2.00,1
+AR,T-Storm / Windy,2.00,6
+AR,Snow and Sleet,2.00,2
+AR,Freezing Rain,2.00,1
+AR,Shallow Fog,2.00,16
+AR,Heavy Sleet and Thunder,2.00,1
+AR,Heavy Freezing Drizzle,2.00,2
+AR,Heavy Thunderstorms and Rain,2.00,3
+AR,Heavy Freezing Rain,2.00,1
+AR,Light Freezing Rain / Windy,2.00,1
+AR,Smoke,2.00,1
+AR,Sleet and Thunder,2.00,3
+AR,Light Snow with Thunder,2.00,2
+AR,Drizzle and Fog,2.00,2
+AR,Light Thunderstorms and Rain,2.00,1
+AR,Thunder / Wintry Mix,2.00,3
+AR,Heavy T-Storm / Windy,2.00,7
+AR,Rain / Windy,2.00,6
+AZ,Light Freezing Rain,3.50,2
+AZ,Snow / Windy,2.50,4
+AZ,Thunder / Windy,2.45,55
+AZ,Light Rain Shower,2.44,9
+AZ,Overcast,2.36,1781
+AZ,Clear,2.32,22221
+AZ,Scattered Clouds,2.30,4168
+AZ,Widespread Dust,2.29,21
+AZ,Thunderstorms and Rain,2.27,15
+AZ,Light Rain / Windy,2.27,63
+AZ,Light Thunderstorms and Rain,2.26,42
+AZ,Light Snow,2.24,603
+AZ,Smoke,2.21,33
+AZ,Light Snow / Windy,2.20,45
+AZ,Fog,2.19,112
+AZ,Partly Cloudy,2.17,16754
+AZ,Patches of Fog,2.17,6
+AZ,Sand / Dust Whirlwinds,2.16,51
+AZ,Thunderstorm,2.16,43
+AZ,Mostly Cloudy,2.15,19239
+AZ,Thunder in the Vicinity,2.15,353
+AZ,Partly Cloudy / Windy,2.14,142
+AZ,Rain / Windy,2.14,14
+AZ,Light Rain,2.14,2001
+AZ,Mostly Cloudy / Windy,2.14,264
+AZ,Wintry Mix,2.14,7
+AZ,Heavy Rain / Windy,2.14,7
+AZ,Cloudy / Windy,2.13,128
+AZ,Rain,2.13,474
+AZ,Light Rain with Thunder,2.12,173
+AZ,Heavy Snow,2.11,106
+AZ,Showers in the Vicinity,2.11,37
+AZ,Heavy Thunderstorms and Rain,2.10,10
+AZ,Heavy T-Storm,2.10,59
+AZ,Haze / Windy,2.10,40
+AZ,Fair / Windy,2.10,1131
+AZ,Thunder,2.09,169
+AZ,Snow,2.09,193
+AZ,Cloudy,2.08,5978
+AZ,Haze,2.08,337
+AZ,T-Storm,2.05,190
+AZ,T-Storm / Windy,2.05,19
+AZ,Light Drizzle,2.04,376
+AZ,Fair,2.03,86883
+AZ,Heavy Rain,2.01,128
+AZ,Blowing Dust,2.00,3
+AZ,Thunder and Hail,2.00,1
+AZ,Drizzle,2.00,5
+AZ,Shallow Fog,2.00,2
+AZ,N/A Precipitation,2.00,5
+AZ,Fog / Windy,2.00,14
+AZ,Sand / Dust Whirls Nearby,2.00,6
+AZ,Sand / Dust Whirlwinds / Windy,2.00,4
+AZ,Blowing Dust / Windy,2.00,5
+AZ,Light Drizzle / Windy,2.00,7
+AZ,Squalls,2.00,1
+AZ,Mist,2.00,1

@@ -1,0 +1,97 @@
+NM,Thunderstorm,2.89,9
+NM,Clear,2.69,837
+NM,Light Drizzle,2.67,3
+NM,Patches of Fog,2.60,5
+NM,Heavy Snow,2.60,5
+NM,Light Rain,2.52,185
+NM,Thunder / Windy,2.50,4
+NM,Light Freezing Fog,2.50,2
+NM,Showers in the Vicinity,2.50,2
+NM,Light Drizzle / Windy,2.50,2
+NM,Light Rain with Thunder,2.50,14
+NM,Thunder in the Vicinity,2.48,25
+NM,Scattered Clouds,2.45,624
+NM,Smoke,2.44,18
+NM,T-Storm,2.43,21
+NM,Cloudy / Windy,2.43,23
+NM,Overcast,2.42,300
+NM,Rain,2.42,19
+NM,Partly Cloudy / Windy,2.38,74
+NM,Light Thunderstorms and Rain,2.36,11
+NM,Partly Cloudy,2.36,1824
+NM,Mostly Cloudy / Windy,2.35,84
+NM,Mostly Cloudy,2.35,1847
+NM,Thunder,2.33,9
+NM,Light Snow,2.33,202
+NM,Wintry Mix,2.33,3
+NM,Blowing Dust / Windy,2.33,6
+NM,Cloudy,2.32,432
+NM,Fair,2.30,3272
+NM,Fair / Windy,2.30,175
+NM,Light Snow / Windy,2.30,20
+NM,Haze,2.27,15
+NM,Fog,2.26,23
+NM,Light Rain / Windy,2.25,8
+NM,Widespread Dust,2.20,5
+NM,Snow,2.11,19
+NM,N/A Precipitation,2.00,1
+NM,Heavy T-Storm,2.00,3
+NM,T-Storm / Windy,2.00,6
+NM,Rain Showers,2.00,2
+NM,Squalls / Windy,2.00,1
+NM,Rain / Windy,2.00,2
+NM,Shallow Fog,2.00,1
+NV,Small Hail,4.00,1
+NV,Patches of Fog,3.00,1
+NV,Light Thunderstorms and Rain,2.80,5
+NV,Thunderstorm,2.62,8
+NV,Rain / Windy,2.50,4
+NV,Scattered Clouds,2.50,627
+NV,Thunderstorms and Rain,2.50,2
+NV,Light Rain with Thunder,2.43,21
+NV,Overcast,2.42,515
+NV,T-Storm,2.40,10
+NV,Partly Cloudy / Windy,2.37,86
+NV,Light Rain,2.34,380
+NV,Rain,2.34,77
+NV,Clear,2.33,3017
+NV,Partly Cloudy,2.30,2567
+NV,Mostly Cloudy,2.27,3486
+NV,Cloudy / Windy,2.22,45
+NV,Heavy Rain,2.21,14
+NV,Smoke,2.20,187
+NV,Cloudy,2.19,1097
+NV,Light Rain / Windy,2.18,17
+NV,Light Snow,2.18,978
+NV,Fog,2.17,77
+NV,Haze,2.15,124
+NV,Thunder,2.14,28
+NV,Heavy Snow,2.14,74
+NV,N/A Precipitation,2.13,46
+NV,Fair,2.13,7182
+NV,Mostly Cloudy / Windy,2.13,143
+NV,Snow,2.12,121
+NV,Haze / Windy,2.10,20
+NV,Fair / Windy,2.08,213
+NV,Light Snow / Windy,2.07,15
+NV,Wintry Mix,2.06,16
+NV,Light Drizzle,2.06,17
+NV,Light Haze,2.00,1
+NV,Blowing Dust,2.00,1
+NV,Blowing Snow Nearby,2.00,1
+NV,Funnel Cloud,2.00,1
+NV,Light Freezing Fog,2.00,2
+NV,Blowing Dust / Windy,2.00,7
+NV,Thunder in the Vicinity,2.00,18
+NV,Light Snow Showers,2.00,1
+NV,Light Drizzle / Windy,2.00,1
+NV,Snow / Windy,2.00,1
+NV,Thunder / Windy,2.00,1
+NV,Heavy T-Storm,1.50,2
+NY,Light Blowing Snow,3.67,3
+NY,Patches of Fog / Windy,3.14,7
+NY,Heavy Thunderstorms and Snow,3.00,3
+NY,Thunderstorms and Snow,3.00,1
+NY,Light Thunderstorms and Snow,3.00,1
+NY,Squalls / Windy,3.00,2
+NY,Light Rain Shower,3.00,1

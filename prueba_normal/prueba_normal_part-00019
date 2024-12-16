@@ -1,0 +1,132 @@
+SC,Fair / Windy,2.06,520
+SC,Cloudy,2.06,41755
+SC,Cloudy / Windy,2.05,264
+SC,Fair,2.05,144992
+SC,Wintry Mix,2.04,114
+SC,N/A Precipitation,2.04,100
+SC,Partly Cloudy / Windy,2.03,160
+SC,Snow and Thunder,2.00,1
+SC,Mist / Windy,2.00,1
+SC,Light Drizzle / Windy,2.00,6
+SC,Drizzle and Fog,2.00,12
+SC,Shallow Fog / Windy,2.00,7
+SC,Light Snow with Thunder,2.00,1
+SC,Haze / Windy,2.00,3
+SC,Drizzle / Windy,2.00,1
+SC,Snow / Windy,2.00,8
+SC,Rain Showers,2.00,2
+SC,Light Rain Shower,2.00,4
+SC,Light Snow / Windy,2.00,20
+SC,Light Rain Showers,2.00,6
+SC,Showers in the Vicinity,1.88,8
+SD,Snow / Windy,4.00,1
+SD,Smoke,4.00,1
+SD,Clear,3.42,12
+SD,Light Snow,3.25,8
+SD,Fog,3.00,2
+SD,Overcast,3.00,11
+SD,Light Rain,2.71,7
+SD,Partly Cloudy / Windy,2.67,6
+SD,Scattered Clouds,2.50,2
+SD,Cloudy,2.43,21
+SD,Partly Cloudy,2.33,24
+SD,Fair,2.32,150
+SD,Mostly Cloudy,2.18,17
+SD,Light Snow / Windy,2.00,1
+SD,Thunder / Windy,2.00,2
+SD,Mostly Cloudy / Windy,2.00,1
+SD,Blowing Snow / Windy,2.00,1
+SD,Haze,2.00,1
+SD,Cloudy / Windy,2.00,6
+SD,Snow,2.00,1
+SD,Rain,2.00,1
+SD,Heavy Snow / Windy,2.00,1
+SD,Fair / Windy,2.00,3
+TN,Light Ice Pellets,3.00,1
+TN,Wintry Mix / Windy,3.00,1
+TN,Heavy Snow / Windy,3.00,1
+TN,Blowing Snow,2.80,5
+TN,Heavy Thunderstorms and Rain,2.57,47
+TN,Thunderstorms and Rain,2.50,60
+TN,Thunderstorm,2.49,114
+TN,Clear,2.48,5325
+TN,Light Thunderstorms and Rain,2.41,154
+TN,Drizzle and Fog,2.40,5
+TN,Fog / Windy,2.40,5
+TN,Light Freezing Rain,2.39,28
+TN,Overcast,2.37,9408
+TN,Scattered Clouds,2.35,5617
+TN,Rain / Windy,2.33,39
+TN,Rain Showers,2.33,6
+TN,Ice Pellets,2.33,6
+TN,Heavy Rain / Windy,2.33,12
+TN,Drizzle,2.33,18
+TN,Light Freezing Drizzle,2.33,6
+TN,Thunder / Windy,2.30,20
+TN,Rain,2.29,2581
+TN,Heavy Rain,2.28,953
+TN,Light Rain,2.26,10380
+TN,Heavy T-Storm / Windy,2.25,36
+TN,T-Storm,2.24,382
+TN,Light Drizzle,2.23,945
+TN,Smoke,2.23,26
+TN,Snow,2.23,113
+TN,Light Rain with Thunder,2.22,562
+TN,Snow / Windy,2.22,9
+TN,Thunder in the Vicinity,2.21,306
+TN,Light Snow,2.20,861
+TN,Wintry Mix,2.20,189
+TN,Haze,2.20,417
+TN,Patches of Fog,2.20,552
+TN,Thunder,2.18,477
+TN,Mostly Cloudy,2.18,40865
+TN,Partly Cloudy,2.17,23007
+TN,Heavy T-Storm,2.16,330
+TN,Fog,2.15,1900
+TN,Fair / Windy,2.15,91
+TN,T-Storm / Windy,2.15,20
+TN,Cloudy,2.15,20505
+TN,Fair,2.14,39005
+TN,Mist,2.14,318
+TN,Showers in the Vicinity,2.14,43
+TN,Light Rain / Windy,2.14,100
+TN,Shallow Fog,2.14,88
+TN,Heavy Snow,2.14,7
+TN,Partly Cloudy / Windy,2.12,107
+TN,Light Sleet,2.11,9
+TN,Mostly Cloudy / Windy,2.07,446
+TN,Cloudy / Windy,2.06,251
+TN,Haze / Windy,2.00,1
+TN,Light Snow and Sleet,2.00,6
+TN,Funnel Cloud,2.00,5
+TN,Thunder / Wintry Mix,2.00,1
+TN,Light Freezing Fog,2.00,10
+TN,Rain Shower,2.00,2
+TN,Small Hail,2.00,3
+TN,Snow and Sleet,2.00,3
+TN,Light Snow / Windy,2.00,23
+TN,Sleet,2.00,2
+TN,Light Drizzle / Windy,2.00,1
+TX,Light Fog,3.00,3
+TX,Heavy Freezing Rain / Windy,3.00,1
+TX,Thunder and Hail / Windy,3.00,1
+TX,Squalls / Windy,3.00,1
+TX,Heavy Thunderstorms with Small Hail,3.00,1
+TX,Light Rain Showers,2.80,5
+TX,Heavy Snow,2.67,3
+TX,Light Haze,2.67,3
+TX,Light Rain Shower,2.50,2
+TX,Blowing Snow,2.50,4
+TX,Light Snow and Sleet / Windy,2.50,4
+TX,Heavy Rain Showers,2.50,6
+TX,Fog / Windy,2.50,4
+TX,Snow Grains,2.50,4
+TX,Heavy Drizzle,2.43,21
+TX,Drizzle,2.42,385
+TX,Heavy Thunderstorms and Rain,2.41,373
+TX,Thunderstorms and Rain,2.39,395
+TX,Heavy Rain / Windy,2.39,76
+TX,Snow,2.38,58
+TX,Light Thunderstorms and Rain,2.36,831
+TX,Rain,2.34,4911
+TX,Rain / Windy,2.34,79

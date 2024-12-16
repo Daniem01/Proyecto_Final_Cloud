@@ -1,0 +1,159 @@
+PA,Blowing Snow,2.42,19
+PA,Light Ice Pellets,2.40,5
+PA,Thunderstorms and Rain,2.40,20
+PA,Light Freezing Rain,2.38,430
+PA,Freezing Rain,2.38,53
+PA,Heavy Snow / Windy,2.34,67
+PA,Heavy Drizzle,2.33,9
+PA,Drizzle and Fog,2.33,12
+PA,Blowing Snow / Windy,2.33,18
+PA,T-Storm,2.32,448
+PA,Light Rain with Thunder,2.32,279
+PA,Overcast,2.30,18205
+PA,Scattered Clouds,2.30,6186
+PA,Mist,2.30,106
+PA,Light Sleet,2.29,7
+PA,Rain,2.27,3797
+PA,Heavy Rain,2.27,1248
+PA,Drizzle,2.27,121
+PA,Thunder,2.27,186
+PA,Light Drizzle,2.27,856
+PA,Heavy T-Storm,2.26,190
+PA,Thunder in the Vicinity,2.26,384
+PA,Mostly Cloudy,2.25,29778
+PA,Shallow Fog,2.25,12
+PA,Snow,2.24,1357
+PA,Light Snow,2.24,9501
+PA,Light Rain,2.24,17363
+PA,Snow / Windy,2.24,37
+PA,Mostly Cloudy / Windy,2.23,654
+PA,Clear,2.23,28702
+PA,Cloudy / Windy,2.22,716
+PA,Partly Cloudy,2.22,19588
+PA,N/A Precipitation,2.21,325
+PA,Partly Cloudy / Windy,2.21,340
+PA,Heavy Rain / Windy,2.21,57
+PA,Heavy Snow,2.19,593
+PA,Patches of Fog,2.18,49
+PA,Wintry Mix / Windy,2.18,11
+PA,Wintry Mix,2.18,1119
+PA,Rain / Windy,2.18,67
+PA,Light Rain / Windy,2.18,299
+PA,Cloudy,2.17,45122
+PA,Haze,2.17,2078
+PA,Light Snow / Windy,2.17,353
+PA,Fog,2.16,5616
+PA,Fair / Windy,2.16,841
+PA,Fair,2.16,92802
+PA,Haze / Windy,2.15,93
+PA,Showers in the Vicinity,2.13,115
+PA,T-Storm / Windy,2.12,17
+PA,Thunder / Windy,2.11,9
+PA,Heavy T-Storm / Windy,2.08,12
+PA,Sleet,2.06,18
+PA,Smoke,2.00,1
+PA,Light Rain Shower,2.00,3
+PA,Snow and Sleet,2.00,7
+PA,Light Rain Showers,2.00,2
+PA,Light Freezing Rain / Windy,2.00,2
+PA,Fog / Windy,2.00,15
+PA,Thunder and Hail,2.00,1
+RI,Mist,3.00,2
+RI,Light Freezing Drizzle,3.00,1
+RI,Light Drizzle / Windy,3.00,1
+RI,Snow Showers,3.00,1
+RI,Heavy T-Storm / Windy,3.00,2
+RI,Heavy Thunderstorms and Rain,3.00,4
+RI,Light Rain Shower,2.75,4
+RI,Light Rain with Thunder,2.69,13
+RI,Blowing Snow,2.67,3
+RI,Thunderstorm,2.67,3
+RI,Patches of Fog,2.60,103
+RI,Light Thunderstorms and Rain,2.57,7
+RI,T-Storm,2.57,14
+RI,Heavy Snow,2.56,62
+RI,Scattered Clouds,2.55,779
+RI,Snow,2.54,46
+RI,Snow and Sleet,2.54,13
+RI,Haze,2.52,29
+RI,Overcast,2.52,1438
+RI,Cloudy / Windy,2.52,29
+RI,Rain,2.52,373
+RI,Partly Cloudy,2.51,1877
+RI,Light Freezing Rain,2.50,8
+RI,Wintry Mix / Windy,2.50,2
+RI,Thunderstorms and Rain,2.50,4
+RI,Clear,2.50,1471
+RI,Mostly Cloudy,2.48,3396
+RI,Light Rain,2.48,1400
+RI,Heavy Rain,2.45,117
+RI,Fog,2.44,152
+RI,Light Rain / Windy,2.43,58
+RI,Light Ice Pellets,2.43,7
+RI,Light Snow,2.39,349
+RI,Fair,2.38,2986
+RI,Light Drizzle,2.38,74
+RI,Partly Cloudy / Windy,2.38,29
+RI,Wintry Mix,2.37,30
+RI,Cloudy,2.36,1373
+RI,Fair / Windy,2.35,52
+RI,Snow / Windy,2.33,3
+RI,Thunder in the Vicinity,2.33,12
+RI,Shallow Fog,2.33,3
+RI,Light Snow / Windy,2.29,14
+RI,Rain / Windy,2.27,11
+RI,Heavy Rain / Windy,2.27,11
+RI,Heavy T-Storm,2.25,8
+RI,Fog / Windy,2.25,4
+RI,Mostly Cloudy / Windy,2.24,68
+RI,Thunder,2.20,10
+RI,Heavy Snow / Windy,2.00,1
+RI,Light Rain Shower / Windy,2.00,1
+RI,Drizzle,2.00,1
+RI,Drizzle and Fog,2.00,1
+RI,N/A Precipitation,2.00,3
+RI,Light Freezing Fog,2.00,1
+RI,Light Rain Showers,2.00,1
+RI,Light Sleet,2.00,2
+SC,Light Hail,3.00,1
+SC,Freezing Rain,3.00,2
+SC,Heavy Snow,2.75,4
+SC,Light Freezing Drizzle,2.71,7
+SC,Light Freezing Rain,2.60,43
+SC,Light Thunderstorms and Rain,2.36,207
+SC,Heavy Thunderstorms and Rain,2.36,169
+SC,Thunderstorms and Rain,2.34,106
+SC,Thunderstorm,2.28,271
+SC,Scattered Clouds,2.27,9870
+SC,Patches of Fog,2.26,530
+SC,Overcast,2.23,15701
+SC,Smoke,2.22,41
+SC,T-Storm / Windy,2.22,23
+SC,Clear,2.22,44278
+SC,Shallow Fog,2.21,324
+SC,Mist,2.21,126
+SC,Snow,2.19,74
+SC,Heavy Rain,2.19,2674
+SC,Rain,2.18,6069
+SC,Light Freezing Fog,2.17,24
+SC,Heavy T-Storm / Windy,2.16,67
+SC,Heavy Drizzle,2.16,89
+SC,Drizzle,2.15,588
+SC,Light Rain,2.14,18619
+SC,Mostly Cloudy,2.14,39218
+SC,Rain / Windy,2.14,72
+SC,Light Drizzle,2.14,1464
+SC,Mostly Cloudy / Windy,2.13,211
+SC,Thunder / Windy,2.12,24
+SC,Heavy Rain / Windy,2.11,76
+SC,Partly Cloudy,2.11,31807
+SC,Light Rain / Windy,2.11,190
+SC,Light Snow,2.11,611
+SC,Heavy T-Storm,2.11,648
+SC,Fog / Windy,2.10,10
+SC,T-Storm,2.10,1345
+SC,Haze,2.10,1223
+SC,Thunder,2.10,708
+SC,Light Rain with Thunder,2.09,538
+SC,Thunder in the Vicinity,2.08,1684
+SC,Fog,2.07,7681

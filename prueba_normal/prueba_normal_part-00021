@@ -1,0 +1,170 @@
+VA,Snow,2.31,496
+VA,T-Storm,2.30,615
+VA,Light Drizzle,2.30,1476
+VA,Thunder in the Vicinity,2.30,651
+VA,Mist,2.28,82
+VA,Light Rain,2.28,16746
+VA,Light Rain with Thunder,2.27,619
+VA,Partly Cloudy,2.27,26170
+VA,Thunder,2.27,607
+VA,Mostly Cloudy,2.26,40756
+VA,Patches of Fog,2.26,99
+VA,Partly Cloudy / Windy,2.25,442
+VA,Light Freezing Drizzle,2.25,40
+VA,Wintry Mix / Windy,2.24,25
+VA,Mostly Cloudy / Windy,2.24,574
+VA,Heavy Snow,2.23,216
+VA,Fog,2.23,3601
+VA,Cloudy / Windy,2.23,602
+VA,N/A Precipitation,2.23,105
+VA,Heavy T-Storm,2.22,361
+VA,Haze,2.22,782
+VA,Cloudy,2.22,38458
+VA,Thunder / Windy,2.21,19
+VA,Fair,2.21,102762
+VA,Wintry Mix,2.20,778
+VA,Freezing Rain,2.20,25
+VA,Freezing Drizzle,2.20,5
+VA,T-Storm / Windy,2.17,42
+VA,Heavy T-Storm / Windy,2.15,60
+VA,Fair / Windy,2.15,1028
+VA,Sleet,2.15,13
+VA,Shallow Fog,2.13,76
+VA,Rain / Windy,2.12,100
+VA,Light Snow and Sleet,2.11,19
+VA,Light Snow / Windy,2.11,70
+VA,Heavy Rain / Windy,2.10,70
+VA,Snow / Windy,2.00,21
+VA,Snow and Sleet / Windy,2.00,9
+VA,Snow and Sleet,2.00,17
+VA,Light Sleet,2.00,11
+VA,Light Snow and Sleet / Windy,2.00,1
+VA,Squalls / Windy,2.00,5
+VA,Heavy Sleet,2.00,1
+VA,Haze / Windy,2.00,2
+VA,Heavy Freezing Drizzle,2.00,1
+VA,Light Freezing Rain / Windy,2.00,4
+VA,Blowing Snow / Windy,2.00,1
+VT,Mostly Cloudy / Windy,4.00,1
+VT,Light Drizzle,3.57,7
+VT,Heavy Snow,3.33,3
+VT,Fair / Windy,3.00,2
+VT,Light Freezing Rain / Windy,3.00,1
+VT,Heavy Rain,2.67,3
+VT,Partly Cloudy,2.63,46
+VT,Mostly Cloudy,2.54,107
+VT,Rain,2.53,15
+VT,Haze,2.50,4
+VT,N/A Precipitation,2.50,2
+VT,Fair,2.45,137
+VT,Snow,2.42,12
+VT,Wintry Mix,2.40,5
+VT,Cloudy,2.39,110
+VT,Clear,2.38,82
+VT,Light Rain,2.36,74
+VT,Light Snow,2.34,131
+VT,Scattered Clouds,2.33,27
+VT,Light Freezing Rain,2.33,3
+VT,Fog,2.31,13
+VT,Overcast,2.30,103
+VT,Thunder,2.00,1
+VT,Drizzle,2.00,1
+VT,Thunderstorms and Rain,2.00,1
+VT,Light Freezing Fog,2.00,1
+VT,Light Rain / Windy,2.00,1
+VT,Mist,2.00,1
+WA,Wintry Mix / Windy,4.00,1
+WA,Light Rain Showers,3.25,4
+WA,Heavy Rain / Windy,3.00,1
+WA,Hail,3.00,2
+WA,Heavy Drizzle,3.00,2
+WA,Light Rain Shower,2.75,4
+WA,Thunderstorm,2.60,5
+WA,Light Freezing Fog,2.58,76
+WA,Drizzle,2.56,9
+WA,Heavy Rain,2.50,101
+WA,Blowing Dust / Windy,2.50,8
+WA,Mist,2.47,94
+WA,Snow,2.45,197
+WA,Light Thunderstorms and Rain,2.45,11
+WA,Rain / Windy,2.45,20
+WA,Haze,2.43,964
+WA,Overcast,2.42,12850
+WA,Clear,2.42,14029
+WA,Small Hail,2.40,5
+WA,Light Rain / Windy,2.40,126
+WA,Patches of Fog,2.40,118
+WA,Thunderstorms and Rain,2.40,5
+WA,Shallow Fog,2.38,13
+WA,Light Rain,2.36,12931
+WA,Light Snow,2.36,1572
+WA,Scattered Clouds,2.36,3569
+WA,Rain,2.35,1052
+WA,Cloudy / Windy,2.35,206
+WA,Partly Cloudy,2.33,6804
+WA,Mostly Cloudy,2.33,15434
+WA,Light Drizzle,2.31,414
+WA,Fog,2.31,1603
+WA,Cloudy,2.30,15891
+WA,T-Storm,2.29,17
+WA,Fair,2.27,17786
+WA,Partly Cloudy / Windy,2.27,49
+WA,Smoke,2.26,951
+WA,Light Freezing Rain,2.26,86
+WA,Snow / Windy,2.25,4
+WA,Fair / Windy,2.25,165
+WA,Mostly Cloudy / Windy,2.23,104
+WA,N/A Precipitation,2.22,18
+WA,Wintry Mix,2.18,111
+WA,Heavy Snow,2.16,19
+WA,Light Freezing Drizzle,2.12,16
+WA,Thunder in the Vicinity,2.10,20
+WA,Light Drizzle / Windy,2.00,2
+WA,Thunder,2.00,6
+WA,Sleet,2.00,1
+WA,Squalls,2.00,1
+WA,Heavy T-Storm,2.00,1
+WA,Light Snow Shower,2.00,1
+WA,Light Snow and Sleet / Windy,2.00,1
+WA,Freezing Rain / Windy,2.00,1
+WA,Light Snow / Windy,2.00,5
+WA,Light Ice Pellets,2.00,1
+WA,Smoke / Windy,2.00,1
+WA,Drizzle and Fog,2.00,5
+WA,Light Rain with Thunder,2.00,6
+WI,Light Rain Showers,4.00,2
+WI,Light Rain Shower,3.67,9
+WI,Heavy Drizzle,3.50,2
+WI,Fair / Windy,3.27,236
+WI,Light Ice Pellets,3.00,1
+WI,Light Snow Shower,3.00,4
+WI,Freezing Rain,3.00,4
+WI,Fog / Windy,3.00,2
+WI,Light Snow Grains,3.00,1
+WI,Thunderstorms and Rain,3.00,7
+WI,Heavy Snow with Thunder,2.83,6
+WI,Clear,2.72,3840
+WI,Heavy Thunderstorms and Rain,2.71,7
+WI,Overcast,2.70,2985
+WI,Thunderstorm,2.67,12
+WI,Mist,2.67,12
+WI,Scattered Clouds,2.66,1189
+WI,Drizzle,2.58,74
+WI,Light Thunderstorms and Rain,2.57,23
+WI,T-Storm / Windy,2.55,11
+WI,Light Freezing Drizzle,2.54,28
+WI,Heavy T-Storm / Windy,2.50,12
+WI,Light Freezing Rain / Windy,2.50,2
+WI,Light Freezing Rain,2.50,26
+WI,Drizzle / Windy,2.50,2
+WI,Mostly Cloudy / Windy,2.48,85
+WI,Light Rain,2.48,1454
+WI,Fog,2.47,500
+WI,Light Rain / Windy,2.46,59
+WI,Partly Cloudy,2.45,2703
+WI,Light Drizzle,2.45,314
+WI,Light Rain with Thunder,2.44,57
+WI,Rain,2.43,532
+WI,Mostly Cloudy,2.43,4480
+WI,Light Snow,2.40,2691
+WI,Heavy Snow / Windy,2.40,5
