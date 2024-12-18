@@ -8,4 +8,4 @@ En este repositorio esta:
     -accidentes.py: Codigo que hemos creado.
 
 Por separado se ha entregado el .csv con los datos que hemos analizado
-debido a que por su tamaño no entra en github el repositorio.
+debido a que por su tamaño no entra en el repositorio.
