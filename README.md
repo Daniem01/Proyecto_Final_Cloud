@@ -1,4 +1,6 @@
 # Proyecto_Final_Cloud
+
+Realizado por Álvaro Domínguez y Daniel Martín
  
 En este repositorio esta:
     -MEMORIA BIG DATA: Memoria del proyecto.
@@ -6,4 +8,4 @@ En este repositorio esta:
     -accidentes.py: Codigo que hemos creado.
 
 Por separado se ha entregado el .csv con los datos que hemos analizado
-debido a que por su tamaño no entran en githubel repositorio.
+debido a que por su tamaño no entra en github el repositorio.
