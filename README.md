@@ -1,6 +1,6 @@
 # Proyecto_Final_Cloud
 
-Realizado por Álvaro Domínguez y Daniel Martín
+Realizado por Álvaro Domínguez Sánchez y Daniel Martín del Castillo
  
 En este repositorio esta:
     -MEMORIA BIG DATA: Memoria del proyecto.
