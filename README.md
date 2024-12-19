@@ -169,7 +169,7 @@ El uso de este análisis de accidentes de tráfico se centra en identificar patr
 Para realizar todas las pruebas y generar los outputs (resultados), hemos llevado a cabo los siguientes pasos, basándonos en el laboratorio 4 de Spark:
 
 ## Configuración del clúster:
-Una vez creado el fichero anterior, procedimos a configurar un clúster mediante el siguiente comando:
+Creamos un clúster mediante el siguiente comando:
 
 ```bash
 gcloud dataproc clusters create mycluster --region=europe-southwest1 \
