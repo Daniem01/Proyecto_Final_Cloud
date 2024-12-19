@@ -286,14 +286,6 @@ print(f"Tiempo total de ejecución: {time() - start_time:.2f} segundos")
 
 En comparación con ejercicios anteriores, lo novedoso de esta aplicación es la implementación del cálculo del **Top 5 de estados con mayor severidad de accidentes bajo condiciones climáticas específicas**. Además, se optimizó el flujo de procesamiento para generar dos outputs distintos utilizando un único código, lo que simplifica y mejora la eficiencia del proceso.
 
-En resumen, la aplicación aprovecha:
-
-- La capacidad de procesamiento distribuido de **Apache Spark**.
-- La infraestructura escalable de **Google Cloud**.
-- Las buenas prácticas del laboratorio de Spark.
-
-Todo esto permite ejecutar el análisis de accidentes de tráfico de manera eficiente y obtener resultados útiles para la mejora de la seguridad vial.
-
 # Conclusiones
 
 En definitiva, el análisis de los accidentes de tráfico en Estados Unidos entre 2016 y 2023 ha permitido identificar patrones significativos entre la severidad de los accidentes y las condiciones climáticas, como la lluvia ligera y la niebla, que están asociadas a una mayor gravedad. 
